@@ -50,9 +50,9 @@ cd health-diagnosis-app
 
 2. Install dependencies:
 ```bash
-   pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 4. Running the App
 ```bash
-   streamlit run app.py
+streamlit run app.py
 ```
