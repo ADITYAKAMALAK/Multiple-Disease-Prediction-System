@@ -33,10 +33,10 @@ The predictions are made using pre-trained machine learning models.
 
 ## 📁 Project Structure
 📦your_project/
-┣ 📜app.py
-┣ 📜diabetes_trained_model.pkl
-┣ 📜heart_trained_model.pkl
-┣ 📜parkinson_trained_model.pkl
+- 📜app.py
+- 📜diabetes_trained_model.pkl
+- 📜heart_trained_model.pkl
+- 📜parkinson_trained_model.pkl
 
 ---
 
